@@ -1,0 +1,17 @@
+E:\TalkAI\DAL\bin\Debug\net8.0\DAL.deps.json
+E:\TalkAI\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+E:\TalkAI\DAL\bin\Debug\net8.0\DAL.dll
+E:\TalkAI\DAL\bin\Debug\net8.0\DAL.pdb
+E:\TalkAI\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+E:\TalkAI\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\TalkAI\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+E:\TalkAI\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+E:\TalkAI\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+E:\TalkAI\DAL\obj\Debug\net8.0\DAL.dll
+E:\TalkAI\DAL\obj\Debug\net8.0\refint\DAL.dll
+E:\TalkAI\DAL\obj\Debug\net8.0\DAL.pdb
+E:\TalkAI\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+E:\TalkAI\DAL\obj\Debug\net8.0\ref\DAL.dll
+E:\TalkAI\DAL\bin\Debug\net8.0\Common.dll
+E:\TalkAI\DAL\bin\Debug\net8.0\Common.pdb
+E:\TalkAI\DAL\obj\Debug\net8.0\DAL.csproj.Up2Date

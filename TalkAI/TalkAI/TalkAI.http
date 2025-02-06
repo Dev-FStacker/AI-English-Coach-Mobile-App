@@ -1,0 +1,6 @@
+@TalkAI_HostAddress = http://localhost:5188
+
+GET {{TalkAI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

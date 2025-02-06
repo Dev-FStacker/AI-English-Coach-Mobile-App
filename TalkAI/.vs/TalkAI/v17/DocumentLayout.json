@@ -1,0 +1,743 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\TalkAI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\triho\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.61\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C77990DC-F935-460D-8381-9492C6D3F7F7}|BLL\\BLL.csproj|e:\\talkai\\bll\\services\\azurelanguageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C77990DC-F935-460D-8381-9492C6D3F7F7}|BLL\\BLL.csproj|solutionrelative:bll\\services\\azurelanguageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C77990DC-F935-460D-8381-9492C6D3F7F7}|BLL\\BLL.csproj|e:\\talkai\\bll\\services\\audiorecorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C77990DC-F935-460D-8381-9492C6D3F7F7}|BLL\\BLL.csproj|solutionrelative:bll\\services\\audiorecorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C77990DC-F935-460D-8381-9492C6D3F7F7}|BLL\\BLL.csproj|e:\\talkai\\bll\\services\\distributedcacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C77990DC-F935-460D-8381-9492C6D3F7F7}|BLL\\BLL.csproj|solutionrelative:bll\\services\\distributedcacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C77990DC-F935-460D-8381-9492C6D3F7F7}|BLL\\BLL.csproj|e:\\talkai\\bll\\interface\\iazurelanguageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C77990DC-F935-460D-8381-9492C6D3F7F7}|BLL\\BLL.csproj|solutionrelative:bll\\interface\\iazurelanguageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C77990DC-F935-460D-8381-9492C6D3F7F7}|BLL\\BLL.csproj|e:\\talkai\\bll\\services\\cacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C77990DC-F935-460D-8381-9492C6D3F7F7}|BLL\\BLL.csproj|solutionrelative:bll\\services\\cacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C77990DC-F935-460D-8381-9492C6D3F7F7}|BLL\\BLL.csproj|e:\\talkai\\bll\\interface\\iazurestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C77990DC-F935-460D-8381-9492C6D3F7F7}|BLL\\BLL.csproj|solutionrelative:bll\\interface\\iazurestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C77990DC-F935-460D-8381-9492C6D3F7F7}|BLL\\BLL.csproj|e:\\talkai\\bll\\services\\azurestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C77990DC-F935-460D-8381-9492C6D3F7F7}|BLL\\BLL.csproj|solutionrelative:bll\\services\\azurestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754090F2-1F93-4031-B18A-11B58A9BE7E5}|TalkAI\\TalkAI.csproj|e:\\talkai\\talkai\\controllers\\conversationncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754090F2-1F93-4031-B18A-11B58A9BE7E5}|TalkAI\\TalkAI.csproj|solutionrelative:talkai\\controllers\\conversationncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754090F2-1F93-4031-B18A-11B58A9BE7E5}|TalkAI\\TalkAI.csproj|e:\\talkai\\talkai\\controllers\\conversationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754090F2-1F93-4031-B18A-11B58A9BE7E5}|TalkAI\\TalkAI.csproj|solutionrelative:talkai\\controllers\\conversationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754090F2-1F93-4031-B18A-11B58A9BE7E5}|TalkAI\\TalkAI.csproj|e:\\talkai\\talkai\\controllers\\azurelanguagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754090F2-1F93-4031-B18A-11B58A9BE7E5}|TalkAI\\TalkAI.csproj|solutionrelative:talkai\\controllers\\azurelanguagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754090F2-1F93-4031-B18A-11B58A9BE7E5}|TalkAI\\TalkAI.csproj|e:\\talkai\\talkai\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754090F2-1F93-4031-B18A-11B58A9BE7E5}|TalkAI\\TalkAI.csproj|solutionrelative:talkai\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C77990DC-F935-460D-8381-9492C6D3F7F7}|BLL\\BLL.csproj|e:\\talkai\\bll\\interface\\iazurespeechservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C77990DC-F935-460D-8381-9492C6D3F7F7}|BLL\\BLL.csproj|solutionrelative:bll\\interface\\iazurespeechservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C77990DC-F935-460D-8381-9492C6D3F7F7}|BLL\\BLL.csproj|e:\\talkai\\bll\\services\\azuretranslationservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C77990DC-F935-460D-8381-9492C6D3F7F7}|BLL\\BLL.csproj|solutionrelative:bll\\services\\azuretranslationservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C77990DC-F935-460D-8381-9492C6D3F7F7}|BLL\\BLL.csproj|e:\\talkai\\bll\\interface\\iaudiorecorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C77990DC-F935-460D-8381-9492C6D3F7F7}|BLL\\BLL.csproj|solutionrelative:bll\\interface\\iaudiorecorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754090F2-1F93-4031-B18A-11B58A9BE7E5}|TalkAI\\TalkAI.csproj|e:\\talkai\\talkai\\controllers\\grammarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754090F2-1F93-4031-B18A-11B58A9BE7E5}|TalkAI\\TalkAI.csproj|solutionrelative:talkai\\controllers\\grammarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754090F2-1F93-4031-B18A-11B58A9BE7E5}|TalkAI\\TalkAI.csproj|e:\\talkai\\talkai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754090F2-1F93-4031-B18A-11B58A9BE7E5}|TalkAI\\TalkAI.csproj|solutionrelative:talkai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0BE2CE5-2A8C-45C8-9814-9225A6870909}|DAL\\DAL.csproj|e:\\talkai\\dal\\entities\\conversationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0BE2CE5-2A8C-45C8-9814-9225A6870909}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\conversationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCEE7B7-7E2D-4636-BE20-43EED59335FD}|Common\\Common.csproj|e:\\talkai\\common\\dto\\pronunciationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FCEE7B7-7E2D-4636-BE20-43EED59335FD}|Common\\Common.csproj|solutionrelative:common\\dto\\pronunciationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754090F2-1F93-4031-B18A-11B58A9BE7E5}|TalkAI\\TalkAI.csproj|e:\\talkai\\talkai\\controllers\\audiocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754090F2-1F93-4031-B18A-11B58A9BE7E5}|TalkAI\\TalkAI.csproj|solutionrelative:talkai\\controllers\\audiocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C77990DC-F935-460D-8381-9492C6D3F7F7}|BLL\\BLL.csproj|e:\\talkai\\bll\\interface\\icacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C77990DC-F935-460D-8381-9492C6D3F7F7}|BLL\\BLL.csproj|solutionrelative:bll\\interface\\icacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754090F2-1F93-4031-B18A-11B58A9BE7E5}|TalkAI\\TalkAI.csproj|e:\\talkai\\talkai\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{754090F2-1F93-4031-B18A-11B58A9BE7E5}|TalkAI\\TalkAI.csproj|solutionrelative:talkai\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C77990DC-F935-460D-8381-9492C6D3F7F7}|BLL\\BLL.csproj|e:\\talkai\\bll\\services\\azurespeechservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C77990DC-F935-460D-8381-9492C6D3F7F7}|BLL\\BLL.csproj|solutionrelative:bll\\services\\azurespeechservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754090F2-1F93-4031-B18A-11B58A9BE7E5}|TalkAI\\TalkAI.csproj|e:\\talkai\\talkai\\controllers\\translationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754090F2-1F93-4031-B18A-11B58A9BE7E5}|TalkAI\\TalkAI.csproj|solutionrelative:talkai\\controllers\\translationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754090F2-1F93-4031-B18A-11B58A9BE7E5}|TalkAI\\TalkAI.csproj|e:\\talkai\\talkai\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754090F2-1F93-4031-B18A-11B58A9BE7E5}|TalkAI\\TalkAI.csproj|solutionrelative:talkai\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCEE7B7-7E2D-4636-BE20-43EED59335FD}|Common\\Common.csproj|e:\\talkai\\common\\dto\\translationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FCEE7B7-7E2D-4636-BE20-43EED59335FD}|Common\\Common.csproj|solutionrelative:common\\dto\\translationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C77990DC-F935-460D-8381-9492C6D3F7F7}|BLL\\BLL.csproj|e:\\talkai\\bll\\interface\\itranslationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C77990DC-F935-460D-8381-9492C6D3F7F7}|BLL\\BLL.csproj|solutionrelative:bll\\interface\\itranslationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCEE7B7-7E2D-4636-BE20-43EED59335FD}|Common\\Common.csproj|e:\\talkai\\common\\dto\\translationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FCEE7B7-7E2D-4636-BE20-43EED59335FD}|Common\\Common.csproj|solutionrelative:common\\dto\\translationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754090F2-1F93-4031-B18A-11B58A9BE7E5}|TalkAI\\TalkAI.csproj|e:\\talkai\\talkai\\controllers\\speechcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754090F2-1F93-4031-B18A-11B58A9BE7E5}|TalkAI\\TalkAI.csproj|solutionrelative:talkai\\controllers\\speechcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCEE7B7-7E2D-4636-BE20-43EED59335FD}|Common\\Common.csproj|e:\\talkai\\common\\dto\\azuretranslationsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FCEE7B7-7E2D-4636-BE20-43EED59335FD}|Common\\Common.csproj|solutionrelative:common\\dto\\azuretranslationsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCEE7B7-7E2D-4636-BE20-43EED59335FD}|Common\\Common.csproj|e:\\talkai\\common\\dto\\evaluationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FCEE7B7-7E2D-4636-BE20-43EED59335FD}|Common\\Common.csproj|solutionrelative:common\\dto\\evaluationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCEE7B7-7E2D-4636-BE20-43EED59335FD}|Common\\Common.csproj|e:\\talkai\\common\\dto\\userevaluation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FCEE7B7-7E2D-4636-BE20-43EED59335FD}|Common\\Common.csproj|solutionrelative:common\\dto\\userevaluation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCEE7B7-7E2D-4636-BE20-43EED59335FD}|Common\\Common.csproj|e:\\talkai\\common\\dto\\grammarcheckresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FCEE7B7-7E2D-4636-BE20-43EED59335FD}|Common\\Common.csproj|solutionrelative:common\\dto\\grammarcheckresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCEE7B7-7E2D-4636-BE20-43EED59335FD}|Common\\Common.csproj|e:\\talkai\\common\\dto\\azureaioptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FCEE7B7-7E2D-4636-BE20-43EED59335FD}|Common\\Common.csproj|solutionrelative:common\\dto\\azureaioptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCEE7B7-7E2D-4636-BE20-43EED59335FD}|Common\\Common.csproj|e:\\talkai\\common\\dto\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FCEE7B7-7E2D-4636-BE20-43EED59335FD}|Common\\Common.csproj|solutionrelative:common\\dto\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754090F2-1F93-4031-B18A-11B58A9BE7E5}|TalkAI\\TalkAI.csproj|e:\\talkai\\talkai\\talkai.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{754090F2-1F93-4031-B18A-11B58A9BE7E5}|TalkAI\\TalkAI.csproj|solutionrelative:talkai\\talkai.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0BE2CE5-2A8C-45C8-9814-9225A6870909}|DAL\\DAL.csproj|e:\\talkai\\dal\\entities\\grammarapiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0BE2CE5-2A8C-45C8-9814-9225A6870909}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\grammarapiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0BE2CE5-2A8C-45C8-9814-9225A6870909}|DAL\\DAL.csproj|e:\\talkai\\dal\\entities\\conversation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0BE2CE5-2A8C-45C8-9814-9225A6870909}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\conversation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0BE2CE5-2A8C-45C8-9814-9225A6870909}|DAL\\DAL.csproj|e:\\talkai\\dal\\entities\\messagerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0BE2CE5-2A8C-45C8-9814-9225A6870909}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\messagerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0BE2CE5-2A8C-45C8-9814-9225A6870909}|DAL\\DAL.csproj|e:\\talkai\\dal\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0BE2CE5-2A8C-45C8-9814-9225A6870909}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0BE2CE5-2A8C-45C8-9814-9225A6870909}|DAL\\DAL.csproj|e:\\talkai\\dal\\entities\\texttospeechrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0BE2CE5-2A8C-45C8-9814-9225A6870909}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\texttospeechrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0BE2CE5-2A8C-45C8-9814-9225A6870909}|DAL\\DAL.csproj|e:\\talkai\\dal\\data\\talkaicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0BE2CE5-2A8C-45C8-9814-9225A6870909}|DAL\\DAL.csproj|solutionrelative:dal\\data\\talkaicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0BE2CE5-2A8C-45C8-9814-9225A6870909}|DAL\\DAL.csproj|e:\\talkai\\dal\\migrations\\20250118073928_a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0BE2CE5-2A8C-45C8-9814-9225A6870909}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\20250118073928_a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Microsoft.Maui.Resizetizer.After.targets",
+              "DocumentMoniker": "C:\\Users\\triho\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.61\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "ToolTip": "C:\\Users\\triho\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.61\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "ViewState": "AQIAAFgCAAAAAAAAAAAWwHYCAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-02-06T01:39:39.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAzureLanguageService.cs",
+              "DocumentMoniker": "E:\\TalkAI\\BLL\\Interface\\IAzureLanguageService.cs",
+              "RelativeDocumentMoniker": "BLL\\Interface\\IAzureLanguageService.cs",
+              "ToolTip": "E:\\TalkAI\\BLL\\Interface\\IAzureLanguageService.cs",
+              "RelativeToolTip": "BLL\\Interface\\IAzureLanguageService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBcAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T01:14:55.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AzureLanguageService.cs",
+              "DocumentMoniker": "E:\\TalkAI\\BLL\\Services\\AzureLanguageService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\AzureLanguageService.cs",
+              "ToolTip": "E:\\TalkAI\\BLL\\Services\\AzureLanguageService.cs",
+              "RelativeToolTip": "BLL\\Services\\AzureLanguageService.cs",
+              "ViewState": "AQIAAFUDAAAAAAAAAAAgwF0DAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T07:41:40.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AudioRecorderService.cs",
+              "DocumentMoniker": "E:\\TalkAI\\BLL\\Services\\AudioRecorderService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\AudioRecorderService.cs",
+              "ToolTip": "E:\\TalkAI\\BLL\\Services\\AudioRecorderService.cs",
+              "RelativeToolTip": "BLL\\Services\\AudioRecorderService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T07:01:51.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DistributedCacheService.cs",
+              "DocumentMoniker": "E:\\TalkAI\\BLL\\Services\\DistributedCacheService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\DistributedCacheService.cs",
+              "ToolTip": "E:\\TalkAI\\BLL\\Services\\DistributedCacheService.cs",
+              "RelativeToolTip": "BLL\\Services\\DistributedCacheService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAswDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T07:39:23.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CacheService.cs",
+              "DocumentMoniker": "E:\\TalkAI\\BLL\\Services\\CacheService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\CacheService.cs",
+              "ToolTip": "E:\\TalkAI\\BLL\\Services\\CacheService.cs",
+              "RelativeToolTip": "BLL\\Services\\CacheService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAcwCcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T07:37:55.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAzureStorageService.cs",
+              "DocumentMoniker": "E:\\TalkAI\\BLL\\Interface\\IAzureStorageService.cs",
+              "RelativeDocumentMoniker": "BLL\\Interface\\IAzureStorageService.cs",
+              "ToolTip": "E:\\TalkAI\\BLL\\Interface\\IAzureStorageService.cs",
+              "RelativeToolTip": "BLL\\Interface\\IAzureStorageService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwA0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T17:08:08.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AzureStorageService.cs",
+              "DocumentMoniker": "E:\\TalkAI\\BLL\\Services\\AzureStorageService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\AzureStorageService.cs",
+              "ToolTip": "E:\\TalkAI\\BLL\\Services\\AzureStorageService.cs",
+              "RelativeToolTip": "BLL\\Services\\AzureStorageService.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAvwGEAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T07:41:38.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConversationController.cs",
+              "DocumentMoniker": "E:\\TalkAI\\TalkAI\\Controllers\\ConversationController.cs",
+              "RelativeDocumentMoniker": "TalkAI\\Controllers\\ConversationController.cs",
+              "ToolTip": "E:\\TalkAI\\TalkAI\\Controllers\\ConversationController.cs",
+              "RelativeToolTip": "TalkAI\\Controllers\\ConversationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T08:06:14.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConversationnController.cs",
+              "DocumentMoniker": "E:\\TalkAI\\TalkAI\\Controllers\\ConversationnController.cs",
+              "RelativeDocumentMoniker": "TalkAI\\Controllers\\ConversationnController.cs",
+              "ToolTip": "E:\\TalkAI\\TalkAI\\Controllers\\ConversationnController.cs",
+              "RelativeToolTip": "TalkAI\\Controllers\\ConversationnController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAtwBcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T08:07:15.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "E:\\TalkAI\\TalkAI\\Controllers\\ChatController.cs",
+              "RelativeDocumentMoniker": "TalkAI\\Controllers\\ChatController.cs",
+              "ToolTip": "E:\\TalkAI\\TalkAI\\Controllers\\ChatController.cs",
+              "RelativeToolTip": "TalkAI\\Controllers\\ChatController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAYwCUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T10:36:42.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AzureLanguageController.cs",
+              "DocumentMoniker": "E:\\TalkAI\\TalkAI\\Controllers\\AzureLanguageController.cs",
+              "RelativeDocumentMoniker": "TalkAI\\Controllers\\AzureLanguageController.cs",
+              "ToolTip": "E:\\TalkAI\\TalkAI\\Controllers\\AzureLanguageController.cs",
+              "RelativeToolTip": "TalkAI\\Controllers\\AzureLanguageController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T10:37:51.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IAzureSpeechService.cs",
+              "DocumentMoniker": "E:\\TalkAI\\BLL\\Interface\\IAzureSpeechService.cs",
+              "RelativeDocumentMoniker": "BLL\\Interface\\IAzureSpeechService.cs",
+              "ToolTip": "E:\\TalkAI\\BLL\\Interface\\IAzureSpeechService.cs",
+              "RelativeToolTip": "BLL\\Interface\\IAzureSpeechService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T07:41:42.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AzureTranslationService .cs",
+              "DocumentMoniker": "E:\\TalkAI\\BLL\\Services\\AzureTranslationService .cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\AzureTranslationService .cs",
+              "ToolTip": "E:\\TalkAI\\BLL\\Services\\AzureTranslationService .cs",
+              "RelativeToolTip": "BLL\\Services\\AzureTranslationService .cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA+wBMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T20:22:07.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IAudioRecorderService.cs",
+              "DocumentMoniker": "E:\\TalkAI\\BLL\\Interface\\IAudioRecorderService.cs",
+              "RelativeDocumentMoniker": "BLL\\Interface\\IAudioRecorderService.cs",
+              "ToolTip": "E:\\TalkAI\\BLL\\Interface\\IAudioRecorderService.cs",
+              "RelativeToolTip": "BLL\\Interface\\IAudioRecorderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T07:01:30.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GrammarController.cs",
+              "DocumentMoniker": "E:\\TalkAI\\TalkAI\\Controllers\\GrammarController.cs",
+              "RelativeDocumentMoniker": "TalkAI\\Controllers\\GrammarController.cs",
+              "ToolTip": "E:\\TalkAI\\TalkAI\\Controllers\\GrammarController.cs",
+              "RelativeToolTip": "TalkAI\\Controllers\\GrammarController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAIBJwFMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T10:36:36.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\TalkAI\\TalkAI\\Program.cs",
+              "RelativeDocumentMoniker": "TalkAI\\Program.cs",
+              "ToolTip": "E:\\TalkAI\\TalkAI\\Program.cs",
+              "RelativeToolTip": "TalkAI\\Program.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAmwDEAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T07:39:51.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ConversationResponse.cs",
+              "DocumentMoniker": "E:\\TalkAI\\DAL\\Entities\\ConversationResponse.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\ConversationResponse.cs",
+              "ToolTip": "E:\\TalkAI\\DAL\\Entities\\ConversationResponse.cs",
+              "RelativeToolTip": "DAL\\Entities\\ConversationResponse.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA8wBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T15:15:59.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PronunciationResult.cs",
+              "DocumentMoniker": "E:\\TalkAI\\Common\\DTO\\PronunciationResult.cs",
+              "RelativeDocumentMoniker": "Common\\DTO\\PronunciationResult.cs",
+              "ToolTip": "E:\\TalkAI\\Common\\DTO\\PronunciationResult.cs",
+              "RelativeToolTip": "Common\\DTO\\PronunciationResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T08:02:29.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AudioController.cs",
+              "DocumentMoniker": "E:\\TalkAI\\TalkAI\\Controllers\\AudioController.cs",
+              "RelativeDocumentMoniker": "TalkAI\\Controllers\\AudioController.cs",
+              "ToolTip": "E:\\TalkAI\\TalkAI\\Controllers\\AudioController.cs",
+              "RelativeToolTip": "TalkAI\\Controllers\\AudioController.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAMwEoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T10:36:37.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AzureSpeechService .cs",
+              "DocumentMoniker": "E:\\TalkAI\\BLL\\Services\\AzureSpeechService .cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\AzureSpeechService .cs",
+              "ToolTip": "E:\\TalkAI\\BLL\\Services\\AzureSpeechService .cs",
+              "RelativeToolTip": "BLL\\Services\\AzureSpeechService .cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T08:06:41.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\TalkAI\\TalkAI\\appsettings.json",
+              "RelativeDocumentMoniker": "TalkAI\\appsettings.json",
+              "ToolTip": "E:\\TalkAI\\TalkAI\\appsettings.json",
+              "RelativeToolTip": "TalkAI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-20T14:56:03.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ICacheService.cs",
+              "DocumentMoniker": "E:\\TalkAI\\BLL\\Interface\\ICacheService.cs",
+              "RelativeDocumentMoniker": "BLL\\Interface\\ICacheService.cs",
+              "ToolTip": "E:\\TalkAI\\BLL\\Interface\\ICacheService.cs",
+              "RelativeToolTip": "BLL\\Interface\\ICacheService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T07:37:41.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TranslationController.cs",
+              "DocumentMoniker": "E:\\TalkAI\\TalkAI\\Controllers\\TranslationController.cs",
+              "RelativeDocumentMoniker": "TalkAI\\Controllers\\TranslationController.cs",
+              "ToolTip": "E:\\TalkAI\\TalkAI\\Controllers\\TranslationController.cs",
+              "RelativeToolTip": "TalkAI\\Controllers\\TranslationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBZwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T20:24:56.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "E:\\TalkAI\\TalkAI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "TalkAI\\WeatherForecast.cs",
+              "ToolTip": "E:\\TalkAI\\TalkAI\\WeatherForecast.cs",
+              "RelativeToolTip": "TalkAI\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T08:04:14.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TranslationResult.cs",
+              "DocumentMoniker": "E:\\TalkAI\\Common\\DTO\\TranslationResult.cs",
+              "RelativeDocumentMoniker": "Common\\DTO\\TranslationResult.cs",
+              "ToolTip": "E:\\TalkAI\\Common\\DTO\\TranslationResult.cs",
+              "RelativeToolTip": "Common\\DTO\\TranslationResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T20:21:47.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TranslationRequest.cs",
+              "DocumentMoniker": "E:\\TalkAI\\Common\\DTO\\TranslationRequest.cs",
+              "RelativeDocumentMoniker": "Common\\DTO\\TranslationRequest.cs",
+              "ToolTip": "E:\\TalkAI\\Common\\DTO\\TranslationRequest.cs",
+              "RelativeToolTip": "Common\\DTO\\TranslationRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T20:36:04.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ITranslationService.cs",
+              "DocumentMoniker": "E:\\TalkAI\\BLL\\Interface\\ITranslationService.cs",
+              "RelativeDocumentMoniker": "BLL\\Interface\\ITranslationService.cs",
+              "ToolTip": "E:\\TalkAI\\BLL\\Interface\\ITranslationService.cs",
+              "RelativeToolTip": "BLL\\Interface\\ITranslationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T20:21:31.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SpeechController.cs",
+              "DocumentMoniker": "E:\\TalkAI\\TalkAI\\Controllers\\SpeechController.cs",
+              "RelativeDocumentMoniker": "TalkAI\\Controllers\\SpeechController.cs",
+              "ToolTip": "E:\\TalkAI\\TalkAI\\Controllers\\SpeechController.cs",
+              "RelativeToolTip": "TalkAI\\Controllers\\SpeechController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T10:37:48.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AzureTranslationSettings.cs",
+              "DocumentMoniker": "E:\\TalkAI\\Common\\DTO\\AzureTranslationSettings.cs",
+              "RelativeDocumentMoniker": "Common\\DTO\\AzureTranslationSettings.cs",
+              "ToolTip": "E:\\TalkAI\\Common\\DTO\\AzureTranslationSettings.cs",
+              "RelativeToolTip": "Common\\DTO\\AzureTranslationSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T20:22:30.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "EvaluationResult.cs",
+              "DocumentMoniker": "E:\\TalkAI\\Common\\DTO\\EvaluationResult.cs",
+              "RelativeDocumentMoniker": "Common\\DTO\\EvaluationResult.cs",
+              "ToolTip": "E:\\TalkAI\\Common\\DTO\\EvaluationResult.cs",
+              "RelativeToolTip": "Common\\DTO\\EvaluationResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T21:52:48.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Topic.cs",
+              "DocumentMoniker": "E:\\TalkAI\\Common\\DTO\\Topic.cs",
+              "RelativeDocumentMoniker": "Common\\DTO\\Topic.cs",
+              "ToolTip": "E:\\TalkAI\\Common\\DTO\\Topic.cs",
+              "RelativeToolTip": "Common\\DTO\\Topic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T20:05:25.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AzureAIOptions.cs",
+              "DocumentMoniker": "E:\\TalkAI\\Common\\DTO\\AzureAIOptions.cs",
+              "RelativeDocumentMoniker": "Common\\DTO\\AzureAIOptions.cs",
+              "ToolTip": "E:\\TalkAI\\Common\\DTO\\AzureAIOptions.cs",
+              "RelativeToolTip": "Common\\DTO\\AzureAIOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T20:05:26.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UserEvaluation.cs",
+              "DocumentMoniker": "E:\\TalkAI\\Common\\DTO\\UserEvaluation.cs",
+              "RelativeDocumentMoniker": "Common\\DTO\\UserEvaluation.cs",
+              "ToolTip": "E:\\TalkAI\\Common\\DTO\\UserEvaluation.cs",
+              "RelativeToolTip": "Common\\DTO\\UserEvaluation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T21:50:33.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "GrammarApiResponse.cs",
+              "DocumentMoniker": "E:\\TalkAI\\DAL\\Entities\\GrammarApiResponse.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\GrammarApiResponse.cs",
+              "ToolTip": "E:\\TalkAI\\DAL\\Entities\\GrammarApiResponse.cs",
+              "RelativeToolTip": "DAL\\Entities\\GrammarApiResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T15:13:57.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "GrammarCheckResult.cs",
+              "DocumentMoniker": "E:\\TalkAI\\Common\\DTO\\GrammarCheckResult.cs",
+              "RelativeDocumentMoniker": "Common\\DTO\\GrammarCheckResult.cs",
+              "ToolTip": "E:\\TalkAI\\Common\\DTO\\GrammarCheckResult.cs",
+              "RelativeToolTip": "Common\\DTO\\GrammarCheckResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T00:57:40.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20250118073928_a.cs",
+              "DocumentMoniker": "E:\\TalkAI\\DAL\\Migrations\\20250118073928_a.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\20250118073928_a.cs",
+              "ToolTip": "E:\\TalkAI\\DAL\\Migrations\\20250118073928_a.cs",
+              "RelativeToolTip": "DAL\\Migrations\\20250118073928_a.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T07:39:28.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Conversation.cs",
+              "DocumentMoniker": "E:\\TalkAI\\DAL\\Entities\\Conversation.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\Conversation.cs",
+              "ToolTip": "E:\\TalkAI\\DAL\\Entities\\Conversation.cs",
+              "RelativeToolTip": "DAL\\Entities\\Conversation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T07:36:32.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "TextToSpeechRequest.cs",
+              "DocumentMoniker": "E:\\TalkAI\\DAL\\Entities\\TextToSpeechRequest.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\TextToSpeechRequest.cs",
+              "ToolTip": "E:\\TalkAI\\DAL\\Entities\\TextToSpeechRequest.cs",
+              "RelativeToolTip": "DAL\\Entities\\TextToSpeechRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T07:36:12.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "MessageRequest.cs",
+              "DocumentMoniker": "E:\\TalkAI\\DAL\\Entities\\MessageRequest.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\MessageRequest.cs",
+              "ToolTip": "E:\\TalkAI\\DAL\\Entities\\MessageRequest.cs",
+              "RelativeToolTip": "DAL\\Entities\\MessageRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T07:36:12.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\TalkAI\\DAL\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\User.cs",
+              "ToolTip": "E:\\TalkAI\\DAL\\Entities\\User.cs",
+              "RelativeToolTip": "DAL\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T07:35:47.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "TalkAIContext.cs",
+              "DocumentMoniker": "E:\\TalkAI\\DAL\\Data\\TalkAIContext.cs",
+              "RelativeDocumentMoniker": "DAL\\Data\\TalkAIContext.cs",
+              "ToolTip": "E:\\TalkAI\\DAL\\Data\\TalkAIContext.cs",
+              "RelativeToolTip": "DAL\\Data\\TalkAIContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T07:35:32.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "TalkAI.http",
+              "DocumentMoniker": "E:\\TalkAI\\TalkAI\\TalkAI.http",
+              "RelativeDocumentMoniker": "TalkAI\\TalkAI.http",
+              "ToolTip": "E:\\TalkAI\\TalkAI\\TalkAI.http",
+              "RelativeToolTip": "TalkAI\\TalkAI.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-01-18T07:35:22.253Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 439,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

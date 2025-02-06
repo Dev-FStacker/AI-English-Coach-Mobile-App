@@ -1,0 +1,14 @@
+E:\TalkAI\Common\bin\Debug\net8.0\Common.deps.json
+E:\TalkAI\Common\bin\Debug\net8.0\Common.runtimeconfig.json
+E:\TalkAI\Common\bin\Debug\net8.0\Common.dll
+E:\TalkAI\Common\bin\Debug\net8.0\Common.pdb
+E:\TalkAI\Common\obj\Debug\net8.0\Common.csproj.AssemblyReference.cache
+E:\TalkAI\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\TalkAI\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+E:\TalkAI\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+E:\TalkAI\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+E:\TalkAI\Common\obj\Debug\net8.0\Common.dll
+E:\TalkAI\Common\obj\Debug\net8.0\refint\Common.dll
+E:\TalkAI\Common\obj\Debug\net8.0\Common.pdb
+E:\TalkAI\Common\obj\Debug\net8.0\Common.genruntimeconfig.cache
+E:\TalkAI\Common\obj\Debug\net8.0\ref\Common.dll

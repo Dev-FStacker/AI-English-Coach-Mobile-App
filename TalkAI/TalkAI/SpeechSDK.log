@@ -1,0 +1,36 @@
+[299221]: 100090ms SPX_DBG_TRACE_VERBOSE:  resource_manager.cpp:131 Created 'CSpxThreadService' as '303073113'
+[299221]: 100090ms SPX_DBG_TRACE_VERBOSE:  resource_manager.cpp:131 Created 'CSpxThreadService' as '303073113'
+[299221]: 100090ms SPX_DBG_TRACE_VERBOSE:  usp_tts_engine_adapter.cpp:62 CSpxUspTtsEngineAdapter::CSpxUspTtsEngineAdapter
+[299221]: 100090ms SPX_DBG_TRACE_VERBOSE:  resource_manager.cpp:131 Created 'CSpxUspTtsEngineAdapter' as '919101823'
+[299221]: 100090ms SPX_DBG_TRACE_VERBOSE:  resource_manager.cpp:131 Created 'CSpxNullAudioOutput' as '853898539'
+[299221]: 100090ms SPX_DBG_TRACE_VERBOSE:  null_audio_output.h:93 CSpxNullAudioOutput::SetFormat is called with format 0x0000018000E230E0
+[299221]: 100090ms SPX_DBG_TRACE_VERBOSE:  cloud_tts_engine_adapter.cpp:134 CSpxCloudTtsEngineAdapter::SetOutput
+[299221]: 100090ms SPX_TRACE_INFO:  cloud_tts_engine_adapter.cpp:212 CSpxCloudTtsEngineAdapter::SetOutput: request format [riff-16khz-16bit-mono-pcm] has header, using raw format instead for streaming.
+[299221]: 100090ms SPX_DBG_TRACE_VERBOSE:  handle_table.h:111 CSpxHandleTable::TrackHandle p=0x0000018000D3FA88
+[299221]: 100090ms SPX_DBG_TRACE_VERBOSE:  handle_table.h:121 CSpxHandleTable::TrackHandle class=ISpxSynthesizer, h=0x0000018000D3FA88, p=0x0000018000D3FA88, tot=1
+[299221]: 100090ms SPX_DBG_TRACE_SCOPE_EXIT:  speechapi_c_factory.cpp:548 synthesizer_create_speech_synthesizer_from_config
+[299221]: 100091ms SPX_DBG_TRACE_VERBOSE:  handle_table.h:111 CSpxHandleTable::TrackHandle p=0x0000018000D3FEB8
+[299221]: 100091ms SPX_DBG_TRACE_VERBOSE:  handle_table.h:121 CSpxHandleTable::TrackHandle class=ISpxNamedProperties, h=0x0000018000D3FEB8, p=0x0000018000D3FEB8, tot=5
+[75220]: 100106ms SPX_TRACE_VERBOSE interop_factory.cs:84 Dispose(True) called for 18000d3feb8
+[75220]: 100106ms SPX_DBG_TRACE_VERBOSE:  handle_table.h:180 CSpxHandleTable::StopTracking(h) h=0x0000018000D3FEB8
+[75220]: 100106ms SPX_DBG_TRACE_VERBOSE:  handle_table.h:195 CSpxHandleTable::StopTracking(h) class=ISpxNamedProperties, h=0x0000018000D3FEB8, p=0x0000018000D3FEB8, tot=4
+[75220]: 100107ms SPX_TRACE_VERBOSE interop_factory.cs:84 Dispose(True) called for 18000d3fa88
+[75220]: 100107ms SPX_DBG_TRACE_FUNCTION:  synthesizer.cpp:493 CSpxSynthesizer::SetDisposing
+[75220]: 100107ms SPX_DBG_TRACE_VERBOSE:  handle_table.h:180 CSpxHandleTable::StopTracking(h) h=0x0000018000D3FA88
+[75220]: 100107ms SPX_DBG_TRACE_VERBOSE:  handle_table.h:195 CSpxHandleTable::StopTracking(h) class=ISpxSynthesizer, h=0x0000018000D3FA88, p=0x0000018000D3FA88, tot=0
+[75220]: 100107ms SPX_DBG_TRACE_SCOPE_ENTER:  synthesizer.cpp:42 CSpxSynthesizer::~CSpxSynthesizer
+[75220]: 100107ms SPX_DBG_TRACE_VERBOSE:  create_object_helpers.h:78 SpxTerm: ptr=0x0000018003DAC158
+[75220]: 100107ms SPX_DBG_TRACE_SCOPE_ENTER:  usp_tts_engine_adapter.cpp:88 CSpxUspTtsEngineAdapter::Term
+[75220]: 100107ms SPX_DBG_TRACE_SCOPE_EXIT:  usp_tts_engine_adapter.cpp:88 CSpxUspTtsEngineAdapter::Term
+[75220]: 100107ms SPX_DBG_TRACE_VERBOSE:  usp_tts_engine_adapter.cpp:67 CSpxUspTtsEngineAdapter::~CSpxUspTtsEngineAdapter: this=0x0000018003DAC100
+[75220]: 100107ms SPX_DBG_TRACE_VERBOSE:  create_object_helpers.h:78 SpxTerm: ptr=0x0000018000E0C1B8
+[75220]: 100107ms SPX_DBG_TRACE_SCOPE_ENTER:  thread_service.cpp:45 CSpxThreadService::Term
+[75220]: 100107ms SPX_DBG_TRACE_SCOPE_EXIT:  thread_service.cpp:45 CSpxThreadService::Term
+[75220]: 100107ms SPX_DBG_TRACE_VERBOSE:  create_object_helpers.h:78 SpxTerm: ptr=0x00000180037FE388
+[75220]: 100107ms SPX_DBG_TRACE_SCOPE_EXIT:  synthesizer.cpp:42 CSpxSynthesizer::~CSpxSynthesizer
+[75220]: 100107ms SPX_DBG_TRACE_SCOPE_ENTER:  thread_service.cpp:45 CSpxThreadService::Term
+[75220]: 100107ms SPX_DBG_TRACE_SCOPE_EXIT:  thread_service.cpp:45 CSpxThreadService::Term
+[75220]: 100107ms SPX_DBG_TRACE_SCOPE_ENTER:  thread_service.cpp:45 CSpxThreadService::Term
+[75220]: 100107ms SPX_DBG_TRACE_SCOPE_EXIT:  thread_service.cpp:45 CSpxThreadService::Term
+[811434]: 102630ms SPX_DBG_TRACE_FUNCTION:  memory_logger.cpp:130 MemoryLogger::Exit
+[811434]: 102630ms SPX_DBG_TRACE_FUNCTION:  resource_manager.cpp:101 CSpxResourceManager::~CSpxResourceManager
