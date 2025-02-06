@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LanguageCoachApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+b643d2206eaa6fb43f5961d5f24e9d6d713b440c")]
 [assembly: System.Reflection.AssemblyProductAttribute("LanguageCoachApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LanguageCoachApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -11,8 +11,44 @@
       "RelativeMoniker": "D:0:0:{A6A633FC-D3ED-4C0C-906E-A8225E9CB373}|LanguageCoachApp\\LanguageCoachApp.csproj|solutionrelative:languagecoachapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A6A633FC-D3ED-4C0C-906E-A8225E9CB373}|LanguageCoachApp\\LanguageCoachApp.csproj|e:\\projects\\mobileapp\\languagecoachapp\\languagecoachapp\\chatbubblecolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A633FC-D3ED-4C0C-906E-A8225E9CB373}|LanguageCoachApp\\LanguageCoachApp.csproj|solutionrelative:languagecoachapp\\chatbubblecolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A633FC-D3ED-4C0C-906E-A8225E9CB373}|LanguageCoachApp\\LanguageCoachApp.csproj|e:\\projects\\mobileapp\\languagecoachapp\\languagecoachapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A6A633FC-D3ED-4C0C-906E-A8225E9CB373}|LanguageCoachApp\\LanguageCoachApp.csproj|solutionrelative:languagecoachapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A633FC-D3ED-4C0C-906E-A8225E9CB373}|LanguageCoachApp\\LanguageCoachApp.csproj|e:\\projects\\mobileapp\\languagecoachapp\\languagecoachapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A633FC-D3ED-4C0C-906E-A8225E9CB373}|LanguageCoachApp\\LanguageCoachApp.csproj|solutionrelative:languagecoachapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A633FC-D3ED-4C0C-906E-A8225E9CB373}|LanguageCoachApp\\LanguageCoachApp.csproj|e:\\projects\\mobileapp\\languagecoachapp\\languagecoachapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A6A633FC-D3ED-4C0C-906E-A8225E9CB373}|LanguageCoachApp\\LanguageCoachApp.csproj|solutionrelative:languagecoachapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A633FC-D3ED-4C0C-906E-A8225E9CB373}|LanguageCoachApp\\LanguageCoachApp.csproj|e:\\projects\\mobileapp\\languagecoachapp\\languagecoachapp\\settingspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A6A633FC-D3ED-4C0C-906E-A8225E9CB373}|LanguageCoachApp\\LanguageCoachApp.csproj|solutionrelative:languagecoachapp\\settingspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A633FC-D3ED-4C0C-906E-A8225E9CB373}|LanguageCoachApp\\LanguageCoachApp.csproj|e:\\projects\\mobileapp\\languagecoachapp\\languagecoachapp\\profilepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A6A633FC-D3ED-4C0C-906E-A8225E9CB373}|LanguageCoachApp\\LanguageCoachApp.csproj|solutionrelative:languagecoachapp\\profilepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A633FC-D3ED-4C0C-906E-A8225E9CB373}|LanguageCoachApp\\LanguageCoachApp.csproj|e:\\projects\\mobileapp\\languagecoachapp\\languagecoachapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A633FC-D3ED-4C0C-906E-A8225E9CB373}|LanguageCoachApp\\LanguageCoachApp.csproj|solutionrelative:languagecoachapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A633FC-D3ED-4C0C-906E-A8225E9CB373}|LanguageCoachApp\\LanguageCoachApp.csproj|e:\\projects\\mobileapp\\languagecoachapp\\languagecoachapp\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A633FC-D3ED-4C0C-906E-A8225E9CB373}|LanguageCoachApp\\LanguageCoachApp.csproj|solutionrelative:languagecoachapp\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A6A633FC-D3ED-4C0C-906E-A8225E9CB373}|LanguageCoachApp\\LanguageCoachApp.csproj|e:\\projects\\mobileapp\\languagecoachapp\\languagecoachapp\\platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{A6A633FC-D3ED-4C0C-906E-A8225E9CB373}|LanguageCoachApp\\LanguageCoachApp.csproj|solutionrelative:languagecoachapp\\platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A633FC-D3ED-4C0C-906E-A8225E9CB373}|LanguageCoachApp\\LanguageCoachApp.csproj|e:\\projects\\mobileapp\\languagecoachapp\\languagecoachapp\\settingspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A633FC-D3ED-4C0C-906E-A8225E9CB373}|LanguageCoachApp\\LanguageCoachApp.csproj|solutionrelative:languagecoachapp\\settingspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -68,22 +104,75 @@
               "RelativeDocumentMoniker": "LanguageCoachApp\\MainPage.xaml.cs",
               "ToolTip": "E:\\Projects\\MobileApp\\LanguageCoachApp\\LanguageCoachApp\\MainPage.xaml.cs",
               "RelativeToolTip": "LanguageCoachApp\\MainPage.xaml.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAUwAwAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAADYAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-05T19:44:46.053Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AndroidManifest.xml",
-              "DocumentMoniker": "E:\\Projects\\MobileApp\\LanguageCoachApp\\LanguageCoachApp\\Platforms\\Android\\AndroidManifest.xml",
-              "RelativeDocumentMoniker": "LanguageCoachApp\\Platforms\\Android\\AndroidManifest.xml",
-              "ToolTip": "E:\\Projects\\MobileApp\\LanguageCoachApp\\LanguageCoachApp\\Platforms\\Android\\AndroidManifest.xml",
-              "RelativeToolTip": "LanguageCoachApp\\Platforms\\Android\\AndroidManifest.xml",
+              "DocumentIndex": 4,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "E:\\Projects\\MobileApp\\LanguageCoachApp\\LanguageCoachApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "LanguageCoachApp\\App.xaml.cs",
+              "ToolTip": "E:\\Projects\\MobileApp\\LanguageCoachApp\\LanguageCoachApp\\App.xaml.cs",
+              "RelativeToolTip": "LanguageCoachApp\\App.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2025-02-05T19:43:42.85Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T20:56:14.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChatBubbleColorConverter.cs",
+              "DocumentMoniker": "E:\\Projects\\MobileApp\\LanguageCoachApp\\LanguageCoachApp\\ChatBubbleColorConverter.cs",
+              "RelativeDocumentMoniker": "LanguageCoachApp\\ChatBubbleColorConverter.cs",
+              "ToolTip": "E:\\Projects\\MobileApp\\LanguageCoachApp\\LanguageCoachApp\\ChatBubbleColorConverter.cs",
+              "RelativeToolTip": "LanguageCoachApp\\ChatBubbleColorConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T20:53:45.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "E:\\Projects\\MobileApp\\LanguageCoachApp\\LanguageCoachApp\\App.xaml",
+              "RelativeDocumentMoniker": "LanguageCoachApp\\App.xaml",
+              "ToolTip": "E:\\Projects\\MobileApp\\LanguageCoachApp\\LanguageCoachApp\\App.xaml",
+              "RelativeToolTip": "LanguageCoachApp\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-06T16:50:22.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProfilePage.xaml",
+              "DocumentMoniker": "E:\\Projects\\MobileApp\\LanguageCoachApp\\LanguageCoachApp\\ProfilePage.xaml",
+              "RelativeDocumentMoniker": "LanguageCoachApp\\ProfilePage.xaml",
+              "ToolTip": "E:\\Projects\\MobileApp\\LanguageCoachApp\\LanguageCoachApp\\ProfilePage.xaml",
+              "RelativeToolTip": "LanguageCoachApp\\ProfilePage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-06T16:41:59.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SettingsPage.xaml",
+              "DocumentMoniker": "E:\\Projects\\MobileApp\\LanguageCoachApp\\LanguageCoachApp\\SettingsPage.xaml",
+              "RelativeDocumentMoniker": "LanguageCoachApp\\SettingsPage.xaml",
+              "ToolTip": "E:\\Projects\\MobileApp\\LanguageCoachApp\\LanguageCoachApp\\SettingsPage.xaml",
+              "RelativeToolTip": "LanguageCoachApp\\SettingsPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-06T16:41:39.939Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -93,9 +182,75 @@
               "RelativeDocumentMoniker": "LanguageCoachApp\\MainPage.xaml",
               "ToolTip": "E:\\Projects\\MobileApp\\LanguageCoachApp\\LanguageCoachApp\\MainPage.xaml",
               "RelativeToolTip": "LanguageCoachApp\\MainPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAqwE4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-05T03:55:33.748Z"
+              "WhenOpened": "2025-02-05T03:55:33.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "E:\\Projects\\MobileApp\\LanguageCoachApp\\LanguageCoachApp\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "LanguageCoachApp\\MauiProgram.cs",
+              "ToolTip": "E:\\Projects\\MobileApp\\LanguageCoachApp\\LanguageCoachApp\\MauiProgram.cs",
+              "RelativeToolTip": "LanguageCoachApp\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T19:28:34.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "E:\\Projects\\MobileApp\\LanguageCoachApp\\LanguageCoachApp\\AppShell.xaml",
+              "RelativeDocumentMoniker": "LanguageCoachApp\\AppShell.xaml",
+              "ToolTip": "E:\\Projects\\MobileApp\\LanguageCoachApp\\LanguageCoachApp\\AppShell.xaml",
+              "RelativeToolTip": "LanguageCoachApp\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-06T16:39:52.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SettingsPage.xaml.cs",
+              "DocumentMoniker": "E:\\Projects\\MobileApp\\LanguageCoachApp\\LanguageCoachApp\\SettingsPage.xaml.cs",
+              "RelativeDocumentMoniker": "LanguageCoachApp\\SettingsPage.xaml.cs",
+              "ToolTip": "E:\\Projects\\MobileApp\\LanguageCoachApp\\LanguageCoachApp\\SettingsPage.xaml.cs",
+              "RelativeToolTip": "LanguageCoachApp\\SettingsPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T16:44:02.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "E:\\Projects\\MobileApp\\LanguageCoachApp\\LanguageCoachApp\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "LanguageCoachApp\\AppShell.xaml.cs",
+              "ToolTip": "E:\\Projects\\MobileApp\\LanguageCoachApp\\LanguageCoachApp\\AppShell.xaml.cs",
+              "RelativeToolTip": "LanguageCoachApp\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T16:42:45.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "E:\\Projects\\MobileApp\\LanguageCoachApp\\LanguageCoachApp\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "LanguageCoachApp\\Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "E:\\Projects\\MobileApp\\LanguageCoachApp\\LanguageCoachApp\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeToolTip": "LanguageCoachApp\\Platforms\\Android\\AndroidManifest.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-02-05T19:43:42.85Z",
+              "EditorCaption": ""
             }
           ]
         }

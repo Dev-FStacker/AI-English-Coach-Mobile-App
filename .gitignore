@@ -1,0 +1,81 @@
+# Ignore Visual Studio and Rider user-specific files
+.vs/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.swp
+
+# Ignore bin and obj directories
+bin/
+obj/
+
+# Ignore build artifacts
+*.dll
+*.exe
+*.pdb
+*.mdb
+*.ilk
+*.idb
+*.ncb
+*.lib
+*.sbr
+*.tlog
+*.lastbuildstate
+
+# Ignore packages
+packages/
+*.nupkg
+*.nuspec
+project.lock.json
+project.assets.json
+
+# Ignore temporary files
+*.tmp
+*.cache
+*.log
+*.lck
+
+# Ignore compiled resources
+*.g.i.cs
+*.g.cs
+*.Designer.cs
+*.dbmdl
+*.opendb
+
+# Ignore Xamarin/Maui related
+*.xaml.cs
+*.xamarin*
+*.ds_store
+*.tff
+*.otf
+*.png
+*.jpg
+*.jpeg
+*.bmp
+
+# Ignore macOS-specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# Ignore Windows-specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Ignore JetBrains Rider files
+.idea/
+*.sln.iml
+
+# Ignore local configuration files
+appsettings.Development.json
+secrets.json
+
+# Ignore .NET-specific folders
+*.vs/
+.vscode/
+.history/

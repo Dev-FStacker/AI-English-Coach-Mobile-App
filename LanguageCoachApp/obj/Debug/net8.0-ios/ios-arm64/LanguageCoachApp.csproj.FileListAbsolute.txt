@@ -309,3 +309,4 @@ E:\Projects\MobileApp\LanguageCoachApp\LanguageCoachApp\obj\Debug\net8.0-ios\ios
 E:\Projects\MobileApp\LanguageCoachApp\LanguageCoachApp\obj\Debug\net8.0-ios\ios-arm64\LanguageCoachApp.pdb
 E:\Projects\MobileApp\LanguageCoachApp\LanguageCoachApp\obj\Debug\net8.0-ios\ios-arm64\LanguageCoachApp.genruntimeconfig.cache
 E:\Projects\MobileApp\LanguageCoachApp\LanguageCoachApp\obj\Debug\net8.0-ios\ios-arm64\ref\LanguageCoachApp.dll
+E:\Projects\MobileApp\LanguageCoachApp\LanguageCoachApp\obj\Debug\net8.0-ios\ios-arm64\LanguageCoachApp.sourcelink.json

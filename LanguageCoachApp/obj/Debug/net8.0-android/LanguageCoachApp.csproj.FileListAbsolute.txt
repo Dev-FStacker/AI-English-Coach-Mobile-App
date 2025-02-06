@@ -1049,6 +1049,7 @@ E:\Projects\MobileApp\LanguageCoachApp\LanguageCoachApp\obj\Debug\net8.0-android
 E:\Projects\MobileApp\LanguageCoachApp\LanguageCoachApp\obj\Debug\net8.0-android\lp\152\jl\files.cache
 E:\Projects\MobileApp\LanguageCoachApp\LanguageCoachApp\obj\Debug\net8.0-android\lp\158\jl\files.cache
 E:\Projects\MobileApp\LanguageCoachApp\LanguageCoachApp\obj\Debug\net8.0-android\lp\159\jl\files.cache
+E:\Projects\MobileApp\LanguageCoachApp\LanguageCoachApp\obj\Debug\net8.0-android\LanguageCoachApp.sourcelink.json
 E:\Projects\MobileApp\LanguageCoachApp\LanguageCoachApp\obj\Debug\net8.0-android\android\typemaps.arm64-v8a.ll
 E:\Projects\MobileApp\LanguageCoachApp\LanguageCoachApp\obj\Debug\net8.0-android\android\environment.arm64-v8a.ll
 E:\Projects\MobileApp\LanguageCoachApp\LanguageCoachApp\obj\Debug\net8.0-android\android\compressed_assemblies.arm64-v8a.ll
@@ -1058,3 +1059,4 @@ E:\Projects\MobileApp\LanguageCoachApp\LanguageCoachApp\obj\Debug\net8.0-android
 E:\Projects\MobileApp\LanguageCoachApp\LanguageCoachApp\obj\Debug\net8.0-android\android\marshal_methods.arm64-v8a.o
 E:\Projects\MobileApp\LanguageCoachApp\LanguageCoachApp\obj\Debug\net8.0-android\android\jni_remap.arm64-v8a.o
 E:\Projects\MobileApp\LanguageCoachApp\LanguageCoachApp\obj\Debug\net8.0-android\app_shared_libraries\arm64-v8a\libxamarin-app.so
+E:\Projects\MobileApp\LanguageCoachApp\LanguageCoachApp\obj\Debug\net8.0-android\android\assets\Newtonsoft.Json.dll

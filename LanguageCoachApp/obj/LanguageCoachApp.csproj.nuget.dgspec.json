@@ -89,6 +89,10 @@
               "version": "[8.0.12, )",
               "autoReferenced": true
             },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
             "System.Runtime.Extensions": {
               "target": "Package",
               "version": "[4.3.1, )"
@@ -162,6 +166,10 @@
               "version": "[8.0.12, )",
               "autoReferenced": true
             },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
             "System.Runtime.Extensions": {
               "target": "Package",
               "version": "[4.3.1, )"
@@ -184,7 +192,7 @@
               "version": "[18.0.8316, 18.0.8316]"
             },
             {
-              "name": "Microsoft.iOS.Runtime.iossimulator-x64.net8.0_18.0",
+              "name": "Microsoft.iOS.Runtime.ios-arm64.net8.0_18.0",
               "version": "[18.0.8316, 18.0.8316]"
             }
           ],
@@ -222,6 +230,10 @@
               "target": "Package",
               "version": "[8.0.12, )",
               "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
             },
             "System.Runtime.Extensions": {
               "target": "Package",
@@ -279,6 +291,10 @@
               "target": "Package",
               "version": "[8.0.100, )"
             },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
             "System.Runtime.Extensions": {
               "target": "Package",
               "version": "[4.3.1, )"
@@ -325,7 +341,7 @@
         "android-x86": {
           "#import": []
         },
-        "iossimulator-x64": {
+        "ios-arm64": {
           "#import": []
         },
         "maccatalyst-x64": {

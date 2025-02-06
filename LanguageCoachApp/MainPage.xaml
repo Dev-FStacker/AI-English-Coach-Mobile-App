@@ -1,32 +1,78 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="LanguageCoachApp.MainPage">
+             x:Class="LanguageCoachApp.MainPage"
+             BackgroundImageSource="background.jpg">
 
     <ScrollView>
-        <VerticalStackLayout Padding="20" Spacing="15">
+        <VerticalStackLayout Padding="25" Spacing="20" Opacity="0" x:Name="MainContainer">
 
-            <Label Text="Speech Recognition"
-               FontSize="24"
-               HorizontalOptions="Center"
-               FontAttributes="Bold"/>
+            <Label Text="AI Language Coach"
+                   FontSize="28"
+                   HorizontalOptions="Center"
+                   FontAttributes="Bold"
+                   TextColor="White"
+                   Opacity="0"
+                   x:Name="TitleLabel"/>
 
-            <Frame Padding="10" BorderColor="Gray" CornerRadius="10">
-                <ScrollView>
-                    <Label
-                Text="{Binding RecognitionText}"
-                FontSize="18"
-                HorizontalOptions="Center" />
-                </ScrollView>
+            <Label Text="Enhance your English speaking skills with real-time AI feedback."
+                   FontSize="16"
+                   HorizontalOptions="Center"
+                   TextColor="LightGray"
+                   Opacity="0"
+                   x:Name="SubtitleLabel"/>
+
+            <Frame Padding="15" BorderColor="#6200EE"
+                BackgroundColor="White"
+                CornerRadius="12" HasShadow="True"
+                Opacity="0" x:Name="SpeechFrame">
+                <Grid>
+                    <ScrollView VerticalScrollBarVisibility="Always">
+                        <CollectionView x:Name="MessagesCollectionView"
+                            ItemsSource="{Binding Messages}"
+                            Margin="5"
+                            HeightRequest="300" 
+                            VerticalOptions="FillAndExpand">
+                            <CollectionView.ItemTemplate>
+                                <DataTemplate>
+                                    <Frame Padding="10" CornerRadius="10"
+                               BackgroundColor="{Binding IsUser, Converter={StaticResource ChatBubbleColorConverter}}"
+                               Margin="5"
+                               HorizontalOptions="{Binding IsUser, Converter={StaticResource ChatAlignmentConverter}}">
+                                        <Label Text="{Binding Text}" TextColor="Black"/>
+                                    </Frame>
+                                </DataTemplate>
+                            </CollectionView.ItemTemplate>
+                        </CollectionView>
+                    </ScrollView>
+                </Grid>
             </Frame>
-            <Button Text="Start Listening"
-                Clicked="Listen"
-                BackgroundColor="Green"
-                TextColor="White"/>
-            <Button Text="Stop Listening"
-                Clicked="StopListening"
-                BackgroundColor="Red"
-                TextColor="White"/>
+
+
+            <Image Source="mic.png"
+                   WidthRequest="80"
+                   HeightRequest="80"
+                   HorizontalOptions="Center"
+                   Opacity="0"
+                   x:Name="MicImage"/>
+
+            <Button Text="🎤 Start Listening"
+                    Clicked="Listen"
+                    BackgroundColor="#4CAF50"
+                    TextColor="White"
+                    FontSize="18"
+                    CornerRadius="25"
+                    Scale="1"
+                    Opacity="0"
+                    x:Name="StartButton">
+                <Button.Triggers>
+                    <Trigger TargetType="Button" Property="IsPressed" Value="True">
+                        <Setter Property="Scale" Value="0.9"/>
+                    </Trigger>
+                </Button.Triggers>
+            </Button>
+            <Entry x:Name="UserInput" Placeholder="Nhập tin nhắn..." WidthRequest="300"/>
+            <Button Text="Gửi" Clicked="SendTextMessage"/>
         </VerticalStackLayout>
     </ScrollView>
 </ContentPage>
