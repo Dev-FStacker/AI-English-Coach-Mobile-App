@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Projects\\MobileApp\\LanguageCoachApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A633FC-D3ED-4C0C-906E-A8225E9CB373}|LanguageCoachApp\\LanguageCoachApp.csproj|e:\\projects\\mobileapp\\languagecoachapp\\languagecoachapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A633FC-D3ED-4C0C-906E-A8225E9CB373}|LanguageCoachApp\\LanguageCoachApp.csproj|solutionrelative:languagecoachapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A633FC-D3ED-4C0C-906E-A8225E9CB373}|LanguageCoachApp\\LanguageCoachApp.csproj|e:\\projects\\mobileapp\\languagecoachapp\\languagecoachapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A6A633FC-D3ED-4C0C-906E-A8225E9CB373}|LanguageCoachApp\\LanguageCoachApp.csproj|solutionrelative:languagecoachapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A633FC-D3ED-4C0C-906E-A8225E9CB373}|LanguageCoachApp\\LanguageCoachApp.csproj|e:\\projects\\mobileapp\\languagecoachapp\\languagecoachapp\\platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A6A633FC-D3ED-4C0C-906E-A8225E9CB373}|LanguageCoachApp\\LanguageCoachApp.csproj|solutionrelative:languagecoachapp\\platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "E:\\Projects\\MobileApp\\LanguageCoachApp\\LanguageCoachApp\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "LanguageCoachApp\\MainPage.xaml.cs",
+              "ToolTip": "E:\\Projects\\MobileApp\\LanguageCoachApp\\LanguageCoachApp\\MainPage.xaml.cs",
+              "RelativeToolTip": "LanguageCoachApp\\MainPage.xaml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAUwAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T19:44:46.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "E:\\Projects\\MobileApp\\LanguageCoachApp\\LanguageCoachApp\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "LanguageCoachApp\\Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "E:\\Projects\\MobileApp\\LanguageCoachApp\\LanguageCoachApp\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeToolTip": "LanguageCoachApp\\Platforms\\Android\\AndroidManifest.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-02-05T19:43:42.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "E:\\Projects\\MobileApp\\LanguageCoachApp\\LanguageCoachApp\\MainPage.xaml",
+              "RelativeDocumentMoniker": "LanguageCoachApp\\MainPage.xaml",
+              "ToolTip": "E:\\Projects\\MobileApp\\LanguageCoachApp\\LanguageCoachApp\\MainPage.xaml",
+              "RelativeToolTip": "LanguageCoachApp\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-05T03:55:33.748Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
